@@ -4,13 +4,12 @@ heading: Lépjen velünk kapcsolatba
 description: Szeretnénk segíteni a legjobb termékek előállításában
 
 map:
-  latitude: -45.8787605
-  longitude: 170.5027976
-  address: "1 George Street, Dunedin, New Zealand"
+  latitude: 46.353023
+  longitude: 17.780090
+  address: "Sörház utca 12, Kaposvár, Magyarország"
   zoom: 13
 ---
 <div class="map" id="map"></div>
-
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
@@ -30,7 +29,7 @@ map:
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
+		<h3 class="editable">Cím</h3>
 		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
 		<h3 class="editable">Email</h3>
