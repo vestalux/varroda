@@ -2,15 +2,11 @@
   link: /blog/
   new_window: false
   highlight: false
-- name: Csapat
+- name: Rólunk
   link: /about/
   new_window: false
   highlight: false
 - name: Kapcsolat
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Árajánlat
   link: /contact/
   new_window: false
   highlight: true
