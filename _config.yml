@@ -53,6 +53,11 @@ defaults:
       path: "contact.html"
     values:
       full_width: true
+  -
+    scope:
+      path: "services.html"
+    values:
+      layout: "page"
 
 jekyll-archives:
   enabled:
