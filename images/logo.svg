@@ -15,7 +15,7 @@
    id="svg4848"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="sufni-textil logo2w.svg">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4850" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="537.41859"
-     inkscape:cy="99.646633"
+     inkscape:zoom="1.4"
+     inkscape:cx="100.66127"
+     inkscape:cy="119.12118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,33 +79,61 @@
            y="491.29065"
            style="fill:#ffffff" /></flowRegion><flowPara
          id="flowPara974"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff">TEXTIL </flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1452"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;line-height:125%;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       transform="matrix(2.8563114,0,0,2.8563114,277.79254,32.330142)"><flowRegion
-         id="flowRegion1454"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;"><rect
-           id="rect1456"
-           width="193.57143"
-           height="243.57143"
-           x="-35"
-           y="192.62979"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;" /></flowRegion><flowPara
-         id="flowPara1458"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;">SUFNI</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff">TEXTIL </flowPara></flowRoot>    <g
+       aria-label="SUFNI"
+       transform="matrix(2.8563114,0,0,2.8563114,277.79254,32.330142)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;line-height:125%;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1452">
+      <path
+         d="m -24.121108,208.83809 q -1.640623,-0.87891 -2.949215,-0.87891 -1.308592,0 -2.246091,0.9375 -0.917967,0.9375 -0.917967,2.26562 0,0.9375 0.546874,2.01172 0.546874,1.05468 2.480465,3.39843 1.953123,2.32422 2.968746,4.04296 1.035155,1.71875 1.035155,3.94531 0,2.77344 -1.679685,4.51171 -1.660154,1.71875 -4.355463,1.71875 -1.484373,0 -3.632808,-0.8789 V 226.924 q 0.05859,0.0195 0.117188,0.0586 0.292968,0.21485 1.230467,0.66406 0.937499,0.42969 1.835935,0.42969 1.464842,0 2.40234,-0.97656 0.95703,-0.97656 0.95703,-2.5 0,-1.05468 -0.48828,-1.95312 -0.46875,-0.89843 -1.738279,-2.4414 l -2.246091,-2.7539 q -1.308592,-1.60156 -1.933591,-2.92969 -0.624999,-1.32812 -0.624999,-3.16406 0,-2.71484 1.582029,-4.41405 1.582029,-1.69922 4.101557,-1.69922 1.75781,0 3.554683,0.87891 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1508" />
+      <path
+         d="m -8.9234909,224.63885 q 0,6.23046 -5.5859301,6.23046 -6.132804,0 -6.132804,-6.1914 v -19.00388 h 3.320308 v 17.59763 q 0,2.83203 0.48828,3.92578 0.488281,1.07421 2.128904,1.07421 1.640623,0 2.050778,-1.13281 0.410156,-1.15234 0.410156,-4.06249 v -17.40232 h 3.3203081 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1510" />
+      <path
+         d="m 3.5592857,208.48652 h -5.7226486 v 7.83202 h 5.1171806 v 2.83203 h -5.1171806 v 11.36717 H -5.483671 v -24.88277 h 9.0429567 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1512" />
+      <path
+         d="M 17.838936,230.51774 H 15.20222 L 8.8545725,213.44745 h -0.078125 v 17.07029 H 5.7686392 v -24.88277 h 2.6757776 l 6.3671792,17.08982 h 0.07813 v -17.08982 h 2.949215 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1514" />
+      <path
+         d="m 21.845161,205.63497 h 3.35937 v 24.88277 h -3.35937 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1516" />
+    </g>
+    <g
+       aria-label="TEXTIL"
        transform="matrix(2.8563114,0,0,2.8563114,610.26963,32.330142)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;line-height:125%;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       id="flowRoot1466"
-       xml:space="preserve"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;"
-         id="flowRegion1462"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;"
-           y="192.62979"
-           x="-35"
-           height="243.57143"
-           width="193.57143"
-           id="rect1460" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;"
-         id="flowPara1464">TEXTIL</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;line-height:125%;font-family:'Poiret One';-inkscape-font-specification:'Poiret One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot1466">
+      <path
+         d="m -22.753923,208.48652 h -3.808588 v 22.03122 h -3.359371 v -22.03122 h -3.789057 v -2.85155 h 10.957016 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1519" />
+      <path
+         d="m -11.716456,230.51774 h -9.003894 v -24.88277 h 8.847644 v 2.85155 h -5.527336 v 7.87109 h 5.117181 v 2.83202 h -5.117181 v 8.57421 h 5.683586 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1521" />
+      <path
+         d="m 2.0163197,230.51774 h -3.1640583 l -3.2812456,-8.51561 -3.3203081,8.51561 h -3.2421827 l 4.921868,-12.83201 -4.550775,-12.05076 h 3.2226518 l 2.968746,7.81248 3.0078085,-7.81248 h 3.2812456 l -4.6484313,12.08982 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1523" />
+      <path
+         d="M 13.463942,208.48652 H 9.6553537 v 22.03122 H 6.2959832 V 208.48652 H 2.5069258 v -2.85155 H 13.463942 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1525" />
+      <path
+         d="m 15.985794,205.63497 h 3.35937 v 24.88277 h -3.35937 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1527" />
+      <path
+         d="m 32.12091,230.51774 h -9.003894 v -24.88277 h 3.359371 v 22.08981 h 5.644523 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99994659px;font-family:'Tw Cen MT Condensed';-inkscape-font-specification:'Tw Cen MT Condensed, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-1.44298589px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         id="path1529" />
+    </g>
+  </g>
 </svg>
