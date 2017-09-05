@@ -6,6 +6,10 @@
   link: /about/
   new_window: false
   highlight: false
+  - name: Szolgáltatások
+  link: /services/
+  new_window: false
+  highlight: false
 - name: Kapcsolat
   link: /contact/
   new_window: false
