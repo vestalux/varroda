@@ -12,8 +12,7 @@ map:
 <div class="map" id="map"></div>
 
 <div class="contact-box">
-	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-		<input type="hidden" name="_to" value="hello@sufnitextil.eu" />
+	<form accept-charset="UTF-8" action="https://formspree.io/hello@sufnitextil.eu" method="POST">
 		<input type="text" name="_gotcha" style="display: none;">
 
 		<label for="name">Név</label>
@@ -25,7 +24,7 @@ map:
 		<label for="message">Üzenet</label>
 		<textarea name="message" id="message" placeholder="Írja le üzenetét..."></textarea>
 
-		<input type="submit" value="Send Message" />
+		<input type="submit" value="Elküldés" />
 	</form>
 
 	<div class="contact-details">
