@@ -1,23 +1,19 @@
 - links:
   - name: Blog
     link: /blog/
-  - name: Csapat
+  - name: Rólunk
     link: /about/
   - name: Kapcsolat
     link: /contact/
 
 - links:
   - name: Facebook
-    link: https://facebook.com
+    link: https://facebook.com/sufnitextil
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com
+    link: https://twitter.com/sufnitextil
     social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com
-    social_icon: YouTube
     new_window: true
   - name: RSS
     link: /feed.xml
