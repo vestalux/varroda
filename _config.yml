@@ -99,3 +99,37 @@ _comments:
   highlight: Emphasis the text
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
+
+  t:
+  hu:
+    home:
+      name: "Rólunk"
+      url: "/rolunk/"
+      new_window: false
+      highlight: false
+    about:
+      name: "Szolgáltatások"
+      url: "/szolgaltatasok/"
+      new_window: false
+      highlight: false
+    contact:
+      name: "Kapcsolat"
+      url: "/kapcsolat/"
+      new_window: false
+      highlight: false
+  en:
+    home:
+      name: "About us"
+      url: "/about-us/"
+      new_window: false
+      highlight: false
+    about:
+      name: "Services"
+      url: "/services/"
+      new_window: false
+      highlight: false
+    contact:
+      name: "Contact"
+      url: "/contact/"
+      new_window: false
+      highlight: false
