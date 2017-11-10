@@ -12,5 +12,17 @@
 		{% endif %}
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
 	{% endfor %}
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+ 
+    <a href="{{ post.url }}" class="{{ post.lang }} {{ class }}">{{ post.lang }}</a>
 
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+
+    <a href="{{ page.url }}" class="{{ page.lang }} {{ class }}">{{ page.lang }}</a>
+
+{% endfor %}
 </nav>
