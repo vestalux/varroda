@@ -9,4 +9,4 @@
 - name: Kapcsolat
   link: /contact/
   new_window: false
-  highlight: true
+  highlight: false
