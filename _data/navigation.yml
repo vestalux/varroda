@@ -1,9 +1,9 @@
 - name: Rólunk
-  link: /about/
+  link: /rolunk/
   new_window: false
   highlight: false
 - name: Szolgáltatások
-  link: /services/
+  link: /szolgaltatasok/
   new_window: false
   highlight: false
 - name: Kapcsolat
