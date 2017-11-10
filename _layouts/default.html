@@ -25,8 +25,7 @@
 			<div class="container">
 				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Sufni Textil Logo" width="95" height="33" /></a></div>
 				{% include navigation.html %}
-			</div>
-		<div class="container">	
+				<section>	
 			
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
@@ -40,7 +39,9 @@
 
     <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
 
-{% endfor %}	</div>
+{% endfor %}	</section>
+			</div>
+		
 		</header>
 		
 		
