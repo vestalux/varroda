@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: Kapcsolat
 heading: Lépjen velünk kapcsolatba
 description: Szeretnénk segíteni a legjobb termékek előállításában
 ref: contact
-land: en
+land: hu
 
 map:
   latitude: 46.356456
@@ -17,20 +17,20 @@ map:
 	<form accept-charset="UTF-8" action="https://formspree.io/hello@sufnitextil.eu" method="POST">
 		<input type="text" name="_gotcha" style="display: none;">
 
-		<label for="name">Name</label>
+		<label for="name">Név</label>
 		<input type="text" name="name" id="name" placeholder="Teljes név..." />
 
 		<label for="email">Email</label>
 		<input type="email" name="email" id="email" placeholder="Email cím..." required />
 
-		<label for="message">Message</label>
+		<label for="message">Üzenet</label>
 		<textarea name="message" id="message" placeholder="Írja le üzenetét..."></textarea>
 
-		<input type="submit" value="Submit" />
+		<input type="submit" value="Elküldés" />
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
+		<h3 class="editable">Cím</h3>
 		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
 		<h3 class="editable">Email</h3>
