@@ -12,6 +12,8 @@
 		{% endif %}
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
 	{% endfor %}
+	
+	
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
  
@@ -19,12 +21,12 @@
 
 {% endfor %}
 
-{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+<!--{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
 
     <a href="{{ page.url }}" class="{{ page.lang }} highlight">{{ page.lang }}</a>
 
-{% endfor %}
+{% endfor %}-->
 </nav>
 
 <ul>

@@ -100,9 +100,5 @@ _comments:
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
 
-t:
-  en:
-   about: "About"
-  hu:
-   about: "Rólunk"
+
 
