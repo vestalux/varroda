@@ -26,23 +26,25 @@
 				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Sufni Textil Logo" width="95" height="33" /></a></div>
 				{% include navigation.html %}
 			</div>
-		</header>
-		
-		
-
+		<div class="container">	
+			
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
  
     <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
 
 {% endfor %}
- | 
+
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
 
     <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
 
-{% endfor %}
+{% endfor %}	</div>
+		</header>
+		
+		
+
 
 
 		{{ content }}
