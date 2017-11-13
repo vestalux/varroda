@@ -1,4 +1,4 @@
-- name: Rólunk
+- name: {{ site.t[page.lang].about }}
   link: /rolunk/
   new_window: false
   highlight: false

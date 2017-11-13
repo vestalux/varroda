@@ -21,12 +21,12 @@
 
 {% endfor %}
 
-<!--{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
 
     <a href="{{ page.url }}" class="{{ page.lang }} highlight">{{ page.lang }}</a>
 
-{% endfor %}-->
+{% endfor %}
 </nav>
 
 <ul>
