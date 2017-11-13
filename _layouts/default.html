@@ -50,13 +50,21 @@
 				<div class="footer-columns">
 				
 				
-				{% if page.lang == 'hu' %}	
-					{% for column in site.data.footer-hu %}
-				{% endif %}		
+					
+					{% for column in 
+					
+					{% if page.lang == 'hu' %}
+					site.data.footer-hu 
+					{% endif %}
+					
+					{% if page.lang == 'en' %}
+					site.data.footer-en 
+					{% endif %}
+					
+					%}
 				
-				{% if page.lang == 'en' %}	
-					{% for column in site.data.footer-en %}
-				{% endif %}					
+				
+								
 					
 					<ul class="footer-links">
 						{% for link in column.links %}
