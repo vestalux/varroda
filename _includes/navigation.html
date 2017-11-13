@@ -1,7 +1,7 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 {% if page.lang == 'hu' %}
-	{% for link in site.data.navigation %}
+	{% for link in site.data.navigation-hu %}
 		{% assign class = "" %}
 		{% if link.highlight %}
 			{% assign class = class | append: " highlight" %}
@@ -15,7 +15,7 @@
 {% endif %}	
 
 {% if page.lang == 'en' %}
-	{% for link in site.data.nav-en %}
+	{% for link in site.data.navigation-en %}
 		{% assign class = "" %}
 		{% if link.highlight %}
 			{% assign class = class | append: " highlight" %}

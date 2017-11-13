@@ -1,0 +1,21 @@
+- links:
+  - name: Blog
+    link: /blog/
+  - name: About us
+    link: /about-us/
+  - name: Kapcsolat
+    link: /contact/
+
+- links:
+  - name: Facebook
+    link: https://facebook.com/sufnitextil
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/sufnitextil
+    social_icon: Twitter
+    new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false
