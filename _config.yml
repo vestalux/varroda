@@ -103,10 +103,8 @@ _comments:
 
 t:
   en:
-    about:  "About Us"
-    service:  "Service"
+    menu:  "site.data.nav-en"
   hu:
-    about:  "Rólunk"
-    service: "Szolgáltatások"
+    menu:  "site.data.navigation"
     
 
