@@ -50,22 +50,8 @@
 				<div class="footer-columns">
 				
 				
-					
-					{% for column in 
-					
-					{% if page.lang == 'hu' %}
-					site.data.footer-hu 
-					{% endif %}
-					
-					{% if page.lang == 'en' %}
-					site.data.footer-en 
-					{% endif %}
-					
-					%}
-				
-				
-								
-					
+{% if page.lang == 'hu' %}	
+					{% for column in site.data.footer-hu %}
 					<ul class="footer-links">
 						{% for link in column.links %}
 							<li><a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
@@ -77,7 +63,23 @@
 					</ul>
 					{% endfor %}
 					
-		
+				{% endif %}		
+					
+					
+{% if page.lang == 'en' %}	
+					{% for column in site.data.footer-en %}
+					<ul class="footer-links">
+						{% for link in column.links %}
+							<li><a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
+								{% if link.social_icon %}
+									{% include social-icon.html icon=link.social_icon %}
+								{% endif %}
+								{{ link.name }}</a></li>
+						{% endfor %}
+					</ul>
+					{% endfor %}
+					
+				{% endif %}		
 
 					
 					
