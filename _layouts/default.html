@@ -20,26 +20,27 @@
 		</script>
 	{% endif %}
 </head>
+{% include uszt.html %}
 	<body>
 		<header>
 			<div class="container">
 				<div class="company-name">
 				<a href="
-			{% if page.lang == 'hu' %}		
+			{% if page.lang == 'hu' %}
 				{{ site.baseurl }}/
-				{% endif %}	
-				
-					{% if page.lang == 'en' %}		
+				{% endif %}
+
+					{% if page.lang == 'en' %}
 				{{ site.baseurl }}/home.html
-				{% endif %}	
+				{% endif %}
 				"><img src="{{ site.baseurl }}/images/logo.svg" alt="Sufni Textil Logo" width="95" height="33" /></a></div>
 				{% include navigation.html %}
-					
+
 			</div>
-		
+
 		</header>
-		
-		
+
+
 
 
 
@@ -48,9 +49,9 @@
 			<div class="container">
 				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
 				<div class="footer-columns">
-				
-				
-{% if page.lang == 'hu' %}	
+
+
+{% if page.lang == 'hu' %}
 					{% for column in site.data.footer-hu %}
 					<ul class="footer-links">
 						{% for link in column.links %}
@@ -62,11 +63,11 @@
 						{% endfor %}
 					</ul>
 					{% endfor %}
-					
-				{% endif %}		
-					
-					
-{% if page.lang == 'en' %}	
+
+				{% endif %}
+
+
+{% if page.lang == 'en' %}
 					{% for column in site.data.footer-en %}
 					<ul class="footer-links">
 						{% for link in column.links %}
@@ -78,11 +79,11 @@
 						{% endfor %}
 					</ul>
 					{% endfor %}
-					
-				{% endif %}		
 
-					
-					
+				{% endif %}
+
+
+
 				</div>
 				<p class="copyright">&copy; {{ site.time | date: '%Y' }} Gold Consulting Szoc.Szöv.</p>
 			</div>
