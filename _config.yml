@@ -2,7 +2,7 @@
 # Site
 
 title: Sufni Textil
-url: "https://proud-alligator.cloudvent.net"
+url: "http://sufnitextil.eu"
 baseurl:
 google_analytics_key: UA-17340317-7
 google_maps_javascript_api_key: AIzaSyCVY5ygshFdTVn8z2izzqcSiC31Y71hhX4
@@ -99,5 +99,3 @@ _comments:
   highlight: Emphasis the text
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
-    
-
