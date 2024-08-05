@@ -6,6 +6,18 @@
   link: /szolgaltatasok/
   new_window: false
   highlight: false
+- name: Egyedi Termékek
+  link: /egyedi-termekek/
+  new_window: false
+  highlight: false
+- name: Galéria
+  link: /galeria/
+  new_window: false
+  highlight: false
+- name: Pályázatunk
+  link: /palyazat/
+  new_window: false
+  highlight: false
 - name: Kapcsolat
   link: /kapcsolat/
   new_window: false
