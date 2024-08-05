@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Sufni Textil
+title: Okos Fészek
 url: "http://okosfeszek.eu"
 baseurl:
 google_analytics_key: UA-17340317-7
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: A Sufni Textil varroda hímzés varrás szabás szolgáltatásokkal áll partnerei rendelkezésére
+description: Az Okos Fészek varroda hímzés varrás szabás szolgáltatásokkal áll partnerei rendelkezésére
 author:
   name:
   email:
